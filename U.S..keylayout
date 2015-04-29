@@ -942,11 +942,11 @@
     </keyMapSet>
     <keyMapSet id="984">
         <keyMap index="0" baseMapSet="16c" baseIndex="0">
-            <key code="24" output="^"/>
-            <key code="30" output="["/>
-            <key code="33" output="@"/>
-            <key code="39" output=":"/>
-            <key code="42" output="]"/>
+            <key code="24" output="+"/>
+            <key code="30" output="]"/>
+            <key code="33" output="["/>
+            <key code="39" output="&#x0027;"/>
+            <key code="42" output="`"/>
             <key code="93" output="¥"/>
             <key code="94" output="_"/>
             <key code="95" output=","/>
@@ -954,19 +954,19 @@
             <key code="104" action="5"/>
         </keyMap>
         <keyMap index="1" baseMapSet="16c" baseIndex="1">
-            <key code="19" output="&#x0022;"/>
-            <key code="22" output="&#x0026;"/>
-            <key code="24" output="~"/>
-            <key code="25" output=")"/>
-            <key code="26" output="&#x0027;"/>
-            <key code="27" output="="/>
-            <key code="28" output="("/>
-            <key code="29" output="0"/>
-            <key code="30" output="{"/>
-            <key code="33" output="`"/>
-            <key code="39" output="*"/>
-            <key code="41" output="+"/>
-            <key code="42" output="}"/>
+            <key code="19" output="@"/>
+            <key code="22" output="^"/>
+            <key code="24" output="="/>
+            <key code="25" output="("/>
+            <key code="26" output="&#x0026;"/>
+            <key code="27" output="_"/>
+            <key code="28" output="*"/>
+            <key code="29" output=")"/>
+            <key code="30" output="}"/>
+            <key code="33" output="{"/>
+            <key code="39" output="&#x0022;"/>
+            <key code="41" output=":"/>
+            <key code="42" output="~"/>
             <key code="93" output="|"/>
             <key code="94" output="_"/>
             <key code="95" output=","/>
@@ -974,11 +974,11 @@
             <key code="104" action="5"/>
         </keyMap>
         <keyMap index="2" baseMapSet="16c" baseIndex="2">
-            <key code="24" output="^"/>
-            <key code="30" output="["/>
-            <key code="33" output="@"/>
-            <key code="39" output=":"/>
-            <key code="42" output="]"/>
+            <key code="24" output="+"/>
+            <key code="30" output="]"/>
+            <key code="33" output="["/>
+            <key code="39" output="&#x0027;"/>
+            <key code="42" output="`"/>
             <key code="93" output="¥"/>
             <key code="94" output="_"/>
             <key code="95" output=","/>
