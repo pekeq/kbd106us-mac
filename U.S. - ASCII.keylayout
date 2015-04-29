@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2015-04-30 at 02:35 (JST)-->
 <!--Last edited by Ukelele version 2.2.8 on 2015-04-30 at 02:35 (JST)-->
-<keyboard group="0" id="9338" name="U.S." maxout="1">
+<keyboard group="0" id="9338" name="U.S. - ASCII" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
         <layout first="18" last="18" modifiers="f4" mapSet="984"/>
