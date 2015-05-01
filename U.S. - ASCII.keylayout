@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2015-04-30 at 02:35 (JST)-->
-<!--Last edited by Ukelele version 2.2.8 on 2015-04-30 at 02:35 (JST)-->
+<!--Last edited by Ukelele version 2.2.8 on 2015-05-02 at 00:22 (JST)-->
 <keyboard group="0" id="9338" name="U.S. - ASCII" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
@@ -942,7 +942,7 @@
     </keyMapSet>
     <keyMapSet id="984">
         <keyMap index="0" baseMapSet="16c" baseIndex="0">
-            <key code="24" output="+"/>
+            <key code="24" output="="/>
             <key code="30" output="]"/>
             <key code="33" output="["/>
             <key code="39" output="&#x0027;"/>
@@ -956,7 +956,7 @@
         <keyMap index="1" baseMapSet="16c" baseIndex="1">
             <key code="19" output="@"/>
             <key code="22" output="^"/>
-            <key code="24" output="="/>
+            <key code="24" output="+"/>
             <key code="25" output="("/>
             <key code="26" output="&#x0026;"/>
             <key code="27" output="_"/>
@@ -974,7 +974,7 @@
             <key code="104" action="5"/>
         </keyMap>
         <keyMap index="2" baseMapSet="16c" baseIndex="2">
-            <key code="24" output="+"/>
+            <key code="24" output="="/>
             <key code="30" output="]"/>
             <key code="33" output="["/>
             <key code="39" output="&#x0027;"/>
