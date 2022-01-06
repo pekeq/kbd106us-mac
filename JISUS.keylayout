@@ -48,7 +48,7 @@
             <modifier keys="caps? anyOption? command? control"/>
         </keyMapSelect>
     </modifierMap>
-    <keyMapSet id="16c">
+    <keyMapSet id="ANSI">
         <keyMap index="0">
             <key code="0" action="a14"/>
             <key code="1" output="s"/>
@@ -922,7 +922,7 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
     </keyMapSet>
-    <keyMapSet id="984">
+    <keyMapSet id="JIS">
         <keyMap index="0" baseMapSet="ANSI" baseIndex="0">
             <key code="24" output="="/>
             <key code="30" output="]"/>
